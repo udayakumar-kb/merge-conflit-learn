@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 city:chennai
-i need to learn git 
-=======
-city:madras
->>>>>>> 6ee47c2539564431b14dfd64a80e43c9ae2f9f30
+i need to learn git
